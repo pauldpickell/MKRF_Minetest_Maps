@@ -1,0 +1,11 @@
+enable_damage = false
+creative_mode = true
+gameid = minetest
+world_name = MKRF512_tpi
+auth_backend = sqlite3
+backend = sqlite3
+player_backend = sqlite3
+load_mod_waterplus = true
+load_mod_colorbrewer = true
+load_mod_classroom = true
+load_mod_unbreakable_map_barrier = true
